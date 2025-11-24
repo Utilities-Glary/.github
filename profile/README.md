@@ -1,7 +1,7 @@
 # Glary Utilities — All-in-One PC Maintenance & Optimization Suite 
 
 <div align="center">
-  <img src="https://lizenzguru.de/media/image/74/46/34/Glary1-1.png " width="820" alt="Glary Utilities">
+  <img src="https://lizenzguru.de/media/image/74/46/34/Glary1-1.png" width="820" alt="Glary Utilities">
 </div>
 
 <p align="center">
